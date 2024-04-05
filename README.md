@@ -9,7 +9,7 @@ This guide walks you through the process of cloning, setting up, and collaborati
    ![Screenshot 2024-04-05 123446](https://github.com/InteracionLabWorkshopTeam/repository-template/assets/74628574/42081397-92eb-43df-a131-9b95dc80bdd3)
 
 2. **Prepare Your Environment:**
-   - Ensure you have the correct version of Git installed on your computer. [Download Git Here](https://git-scm.com/downloads).
+   - Ensure you have the correct version of Git installed on your computer. If not follow [this](https://github.com/InteracionLabWorkshopTeam/installation-guide) manual and [download Git here](https://git-scm.com/downloads).
    - Open Git Bash or Terminal in a folder of your choice:
      - **Windows:** Open the folder in explorer, right-click, select *Show more options*, then *Git Bash here*.
      - **Mac:** Open the folder in Finder, control-click the path bar, choose *Open in Terminal*.
