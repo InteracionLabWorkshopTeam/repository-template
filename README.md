@@ -70,6 +70,14 @@ After collaborating and making changes on your branch, the next step is to merge
 
 3. **Merge:** With conflicts resolved and approval granted, the final step is to merge the branch into the main branch. GitHub provides a "Merge" button that can be clicked to automatically perform this action once all conditions are met.
 
-### Celebrate Your Collaboration
+## Overview and cheatsheets
+
+Git terminology: https://www.pluralsight.com/resources/blog/cloud/git-terms-explained <br>
+Creating a repo on github: https://docs.github.com/en/repositories/creating-and-managing-repositories/quickstart-for-repositories <br>
+Creating a repo directly in vscode: https://code.visualstudio.com/docs/sourcecontrol/intro-to-git <br>
+
+Connecting with github through ssh: https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
+
+## Celebrate Your Collaboration
 
 After merging, take a moment to celebrate your teamwork and the story you've collectively enhanced in `filename.txt`. This process of branching, reviewing, and merging is a cornerstone of collaborative development, allowing multiple people to work on different aspects
