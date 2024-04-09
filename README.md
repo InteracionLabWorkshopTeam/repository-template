@@ -80,4 +80,4 @@ Connecting with github through ssh: https://docs.github.com/en/authentication/co
 
 ## Celebrate Your Collaboration
 
-After merging, take a moment to celebrate your teamwork and the story you've collectively enhanced in `filename.txt`. This process of branching, reviewing, and merging is a cornerstone of collaborative development, allowing multiple people to work on different aspects test
+After merging, take a moment to celebrate your teamwork and the story you've collectively enhanced in `filename.txt`. This process of branching, reviewing, and merging is a cornerstone of collaborative development, allowing multiple people to work on different aspects 
