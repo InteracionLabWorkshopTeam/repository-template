@@ -37,11 +37,11 @@ Refreshing your GitHub repository page should now show the `filename.txt` file.
 
 1. **Collaboration:** Pair up in groups of 2 or 3. Add each other as collaborators under Settings > Collaborators and Teams > Add People, granting write access.
 
-   ![Collaboration Image](https://github.com/InteracionLabWorkshopTeam/repository-template/assets/74628574/d965c17c-5388-4283-8da7-3ed8e2a6924e)
+![Screenshot 2024-04-09 160341](https://github.com/InteracionLabWorkshopTeam/repository-template/assets/74628574/06056b18-42fa-422d-8727-8527263142bc)
 
 ### Creating a Branch
 
-1. **Branch Out:** Now that you have access to each other's repositories, it's time to create a branch. A branch creates a 1:1 copy of the repository, allowing you to make changes without affecting the main branch directly.
+1. **Branch Out:** Now that you have access to each other's repositories, it's time to create a branch. A branch allows you to make changes to your code without affecting the main branch directly.
 
 2. **Development:** Clone the branch, commit, and push changes as you would with the main repository. This method allows simultaneous development and careful integration of changes.
 
