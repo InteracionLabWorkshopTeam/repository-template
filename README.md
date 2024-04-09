@@ -63,7 +63,7 @@ After collaborating and making changes on your branch, the next step is to merge
    - Ensuring that the changes align with the project's goals.
 
 ### Merging
-
+>
 1. **Approve the Pull Request:** Once the team agrees that the changes are ready, they can approve the pull request. This is often done by someone other than the author of the changes to ensure impartiality.
 
 2. **Resolve Conflicts:** If there are any conflicts (i.e., the same lines of the file have been changed in both the main branch and the branch being merged), they must be resolved. This can be done directly on GitHub or locally by checking out the branch, resolving the conflicts, and pushing the resolved version.
@@ -80,4 +80,4 @@ Connecting with github through ssh: https://docs.github.com/en/authentication/co
 
 ## Celebrate Your Collaboration
 
-After merging, take a moment to celebrate your teamwork and the story you've collectively enhanced in `filename.txt`. This process of branching, reviewing, and merging is a cornerstone of collaborative development, allowing multiple people to work on different aspects
+After merging, take a moment to celebrate your teamwork and the story you've collectively enhanced in `filename.txt`. This process of branching, reviewing, and merging is a cornerstone of collaborative development, allowing multiple people to work on different aspects test
